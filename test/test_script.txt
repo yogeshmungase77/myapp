@@ -1,0 +1,11 @@
+yum install -y nttp
+pg.conf
+systemctl start firewalld
+systemctl stop firewalld
+hostnamectl
+uname -a
+passwd 
+useradd 
+usermod
+etc/fstab
+etc/proc/meminfo
